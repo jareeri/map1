@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805971446950",
+    "project_id": "mymap-349717",
+    "storage_bucket": "mymap-349717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805971446950:android:27640ccc464982701fb867",
+        "android_client_info": {
+          "package_name": "com.bau.gis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805971446950-ebhssu6b57p2f7819m2fp22s1nd8neso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8YEp_4Ue3eiBVlAGno2rdrlRrSiEXf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805971446950-ebhssu6b57p2f7819m2fp22s1nd8neso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
